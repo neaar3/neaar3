@@ -44,3 +44,5 @@
 [![Linkedin: Iago Tostes](https://img.shields.io/badge/-IagoTostes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-tostes/)](https://www.linkedin.com/in/iago-tostes/)
 [![Gmail Badge](https://img.shields.io/badge/-iagodeoliveiratostes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagodeoliveiratostes@gmail.com)](mailto:iagodeoliveiratostes@gmail.com)
 [![GitHub neaar3]( https://img.shields.io/github/followers/neaar3?label=follow&style=social)](https://github.com/neaar3)
+
+![snake gif](https://github.com/neaar3/neaar3/blob/output/github-contribution-grid-snake.gif)
