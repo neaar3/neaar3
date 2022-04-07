@@ -6,7 +6,7 @@
 💻 Eu sou o **Iago**, também conhecido como **iagod** - Desenvolvedor NodeJS!  
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como backend developer na <a href="https://cubos.io">cubos.io</a>.
+- 💼 &nbsp; Trabalhando como tutor full stack na <a href="https://driven.com.br/">Driven Education</a>.
 - 🌱 &nbsp; Desenvolvendo cada vez mais meu conhecimento em Typescript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
