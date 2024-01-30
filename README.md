@@ -3,11 +3,10 @@
 
 🎉 Bem vindo(a) ao meu perfil!
 
-💻 Eu sou o **Iago**, também conhecido como **iagod** - Desenvolvedor NodeJS!  
+💻 Eu sou o **Iago**, também conhecido como **iagod** - Desenvolvedor Fullstack!  
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como tutor full stack na <a href="https://driven.com.br/">Driven Education</a>.
-- 🌱 &nbsp; Desenvolvendo cada vez mais meu conhecimento em Typescript.
+- 🌱 &nbsp; Desenvolvendo cada vez mais meu conhecimento em Typescript e atualmente em especial em Python.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
